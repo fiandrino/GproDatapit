@@ -1,7 +1,7 @@
 # Datapit
 
 <p align="center">
-  <img src="images/datapit-preview.png" alt="Datapit website preview" width="900">
+  <img src="[images/datapit-preview.png](https://datapit.eu/static/img/datapit-og.jpg)" alt="Datapit website preview" width="900">
 </p>
 
 <p align="center">
