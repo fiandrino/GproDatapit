@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://datapit.eu/static/img/datapit-og.jpg"
        alt="Datapit website preview"
-       width="900">
+       width="900"> 
 </p>
 
 <p align="center">
