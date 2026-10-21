@@ -1,44 +1,66 @@
 # Datapit
 
-### Your GPRO Strategy Assistant
+<p align="center">
+  <img src="images/datapit-preview.png" alt="Datapit website preview" width="900">
+</p>
 
-**Make smarter decisions. Optimize your strategy. Improve your results.**
+<p align="center">
+  <strong>Your GPRO Strategy Assistant</strong>
+</p>
 
-[Visit Datapit](https://datapit.eu/)
+<p align="center">
+  <a href="https://datapit.eu/">Visit Website</a>
+</p>
 
 ---
 
 ## About Datapit
 
-Datapit is a strategy and analytics platform designed for **GPRO (Grand Prix Racing Online)** players who want to make better decisions through data analysis, optimization, and planning.
+**Datapit** is a strategy and analytics platform designed for players of **GPRO (Grand Prix Racing Online)** who want to make smarter decisions through data analysis, optimization, and planning.
 
-The platform provides tools to analyze racing data, optimize car setups, plan race strategies, and manage the key aspects of a racing team throughout the season.
+The platform helps managers analyze racing data, optimize car setups, prepare race strategies, evaluate driver performance, and manage the key aspects of their racing team throughout the season.
 
-Whether you are preparing for the next race or planning your long-term progress, Datapit helps you turn game data into actionable insights.
+Whether you are preparing for the next race or planning your long-term progress, Datapit helps turn game data into useful insights to support your decisions.
 
 ## Features
 
-- **Car Setup Optimization** — Analyze car characteristics and find suitable configurations for different circuits.
-- **Race Strategy** — Plan your race approach using relevant data and performance indicators.
-- **Driver Analysis** — Evaluate driver attributes and their impact on performance.
-- **Car Component Management** — Monitor component levels and wear to support maintenance and upgrade decisions.
-- **Circuit Analysis** — Explore track characteristics and understand their impact on car performance.
-- **Season Planning** — Support long-term decisions with data-driven analysis.
+- **Car Setup Optimization** — Analyze car characteristics and identify suitable configurations for different circuits.
+- **Race Strategy** — Use relevant data and performance indicators to support race preparation.
+- **Driver Analysis** — Evaluate driver attributes and understand their impact on performance.
+- **Car Component Management** — Track component levels and wear to help plan maintenance and upgrades.
+- **Circuit Analysis** — Explore track characteristics and their influence on car performance.
+- **Data Analysis** — Use available game data to support informed decisions.
+- **Season Planning** — Plan ahead and make strategic decisions throughout the season.
 
-## Built for GPRO Managers
+## Why Datapit?
 
-Datapit aims to simplify complex decisions and provide useful insights for managers at every stage of their GPRO journey.
+Success in GPRO requires more than just a fast car. It takes careful planning, efficient resource management, and a good understanding of the data behind every decision.
 
-From individual race preparation to long-term team development, the goal is to make data analysis more accessible and strategic planning more effective.
+Datapit brings useful analysis and planning tools together in one place, helping managers make more informed choices and develop their teams over time.
+
+## Getting Started
+
+1. Visit [datapit.eu](https://datapit.eu/).
+2. Follow the instructions provided on the website.
+3. Connect using your GPRO API token, if required.
+4. Explore the available tools and start analyzing your data.
 
 ## Website
 
-**Explore Datapit:** https://datapit.eu/
+<p align="center">
+  <a href="https://datapit.eu/">
+    <strong>https://datapit.eu/</strong>
+  </a>
+</p>
 
 ## Disclaimer
 
-Datapit is an independent companion project for GPRO players and is not affiliated with or endorsed by GPRO unless otherwise stated.
+Datapit is an independent companion project for GPRO players. It is not affiliated with, endorsed by, or officially associated with GPRO unless otherwise stated.
+
+GPRO and its related trademarks belong to their respective owners.
 
 ---
 
-*Analyze the data. Refine your strategy. Race smarter.*
+<p align="center">
+  <em>Analyze the data. Refine your strategy. Race smarter.</em>
+</p>
